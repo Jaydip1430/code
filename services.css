@@ -1,0 +1,178 @@
+body {
+    margin: 0%;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.ul1 {
+    display: flex;
+    gap: 15px;
+}
+
+.ul1 a {
+    text-decoration: none;
+}
+
+.ser {
+    text-align: center;
+    background-image: url(https://flipcodesolutions.com/img/banner3.jpg);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.ser1 {
+    text-align: justify;
+    line-height: 27px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.csd {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    display: flex;
+}
+
+.csd p {
+    letter-spacing: 1px;
+    line-height: 20px;
+    text-align: justify;
+}
+
+.par {
+    width: 400px;
+}
+
+.ul2 {
+    padding-left: 15px;
+}
+
+.ul2 li {
+    letter-spacing: 1px;
+    line-height: 20px;
+    text-align: justify;
+}
+
+.ul3 img {
+    width: 400px;
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.web {
+    display: flex;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+
+.web1 img {
+    height: 270px;
+    width: 400px;
+    margin-left: 50px;
+
+}
+
+.web2 {
+    margin-left: 10px;
+    padding-top: 50px;
+
+}
+
+.web p {
+    letter-spacing: 1px;
+    line-height: 20px;
+    text-align: justify;
+}
+
+.mobile {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.mobile1 {
+    margin-right: 10px;
+    margin-left: 0px;
+}
+
+.mobile1 p {
+    text-align: justify;
+}
+
+
+.mobile3 img {
+    margin-top: 10px;
+    height: 320px;
+    width: 400px;
+}
+
+h3 {
+    letter-spacing: 1px;
+}
+
+.it {
+    text-align: justify;
+    margin-left: 10px;
+    padding-top: 40px;
+}
+
+.data {
+    text-align: justify;
+    padding-right: 10px;
+    padding-top: 50px;
+
+}
+
+.data p {
+    letter-spacing: 1px;
+}
+
+.e-commerce img {
+    height: 280px;
+    width: 400px;
+}
+
+.e1 {
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.e1 p {
+    letter-spacing: 1px;
+}
+
+.our {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.our1 {
+    text-align: center;
+}
+
+.our2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.our2 img{
+    height: 50px;
+    width: 40px;
+}
+
+.im a {
+    color: white;
+    text-decoration: none;
+
+}
+.im li{
+ 
+}

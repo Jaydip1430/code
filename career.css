@@ -1,0 +1,65 @@
+    .open {
+        margin-top: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .name {
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+        text-align: justify;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .email {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 40%;
+        margin-bottom: 20px;
+    }
+
+    .address {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 40%;
+        margin-bottom: 20px;
+    }
+
+    .cz {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 20px;
+
+    }
+
+    .Uplodad {
+        font-size: 15x;
+        justify-content: center;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        padding-left: 20px;
+    }
+
+    .sabmit {
+        display: flex;
+        justify-content: start;
+        padding-right: 300px;
+        margin-bottom: 20px;
+
+    }
+
+    .sabmit button {
+        background-color: #ff6600;
+        border: none;
+        text-align: center;
+        height: 25px;
+        width: 60px;
+        border-radius: 5px;
+        color: white;
+    }
